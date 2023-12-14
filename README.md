@@ -2,7 +2,7 @@
 
 **All of the scripts you see here are in the ``Scripts`` folder then their designated folder (ex: `Font Fix` or `Color Fix`).**
 
-## Tutorial on how to port fonts from modern studio to a older roblox studio client
+## Tutorial on how to port fonts from modern studio to a older roblox studio client (ex: Fredoka One)
 1. Open modern / normal roblox studio client.
 2. Run the contents of `ModernStudioFontFix.lua` in the modern roblox studio client command bar at the bottom. This will make a GuiExports folder in **workspace**.
 3. Save the GuiExports folder as a file by right clicking on it and pressing **save as a file** or you can simply copy it.
