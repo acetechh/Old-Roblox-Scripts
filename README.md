@@ -1,6 +1,6 @@
 # Old-Roblox-Scripts
 
-**All of the scripts you see here are in the ``Scripts`` folder then their designated folder (ex: `Font Fix`).**
+**All of the scripts you see here are in the ``Scripts`` folder then their designated folder (ex: `Font Fix` or `Color Fix`).**
 
 ## Tutorial on how to port fonts from modern studio to a older roblox studio client
 1. Open modern / normal roblox studio client.
