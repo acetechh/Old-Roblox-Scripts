@@ -9,7 +9,7 @@
 4. Insert the GuiExports file into your older roblox studio client into **workspace** (ex: 2016) or copy and paste it over into **workspace**.
 5. Run the contents of `OldStudioFontFix.lua` in the older roblox studio client command bar at the bottom. This will remove the GuiExports folder and set all the fonts correctly.
 
-## Tutorial on how to fix the colors on a RBXL when porting to a Older Roblox Studio Client
+## Tutorial on how to fix the colors on a RBXL when porting to a Older Roblox Studio Client (ex: 2016)
 
 **Note: This script is currently only configurated to work on the Workspace. If you want it to run through ReplicatedStorage or ServerStorage, you'll have to change "Workspace" at the last line to whatever "service" you want to fix. (This code is mainly for 2016 studio clients.)**
 
