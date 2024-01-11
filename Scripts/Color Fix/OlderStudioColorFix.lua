@@ -1,4 +1,4 @@
--- Read the README.md file for information on how to use this. (Thank you Phil564 for this code <3.)
+-- Read the README.md file for information on how to use this.
 
 local function scan(parent)
 	for _,v in pairs(parent:GetChildren()) do
