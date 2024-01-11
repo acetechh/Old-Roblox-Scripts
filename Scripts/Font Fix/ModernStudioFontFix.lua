@@ -1,4 +1,4 @@
--- Follow the instructions at the top of the README.md file. (Thanks to W(x20) for this code. <3)
+-- Follow the instructions at the top of the README.md file.
 
 local a = {} 
 local tmpfolder = Instance.new("Folder", workspace)
