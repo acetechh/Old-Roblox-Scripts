@@ -17,7 +17,9 @@ end
 for _,v in pairs(a) do
     for _,t in pairs(tmpfolder:GetChildren()) do
         if v:GetFullName() == t.Name then
-            v.Font = Enum.Font[t.Value]
+            pcall(function()
+                v.Font = Enum.Font[t.Value]
+            end)
         end
     end
 end
