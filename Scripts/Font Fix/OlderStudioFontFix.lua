@@ -17,9 +17,13 @@ end
 for _,v in pairs(a) do
     for _,t in pairs(tmpfolder:GetChildren()) do
         if v:GetFullName() == t.Name then
-            pcall(function()
+            local success, err = pcall(function()
                 v.Font = Enum.Font[t.Value]
             end)
+
+            if not success then
+                warn('Error:',err)
+            end
         end
     end
 end
